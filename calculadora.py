@@ -1,3 +1,5 @@
+# calculadora simples
+# Rafaela
 print("Calculadora usando Match Case")
 print("Soma (+)\nSubtração (-)\nMultiplicação (*)\nDivisão(/)\n")
 
